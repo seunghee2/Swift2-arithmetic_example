@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0D4D02F373061D7AC22B0E6ADE8CC7C445AAAF0F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C41CBD3294C9C42733E601792A77823B4DF0D645" : 0,
+    "0D4D02F373061D7AC22B0E6ADE8CC7C445AAAF0F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "71E037B6-8CFC-4E7C-A637-C90ACFE5115B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C41CBD3294C9C42733E601792A77823B4DF0D645" : "",
+    "0D4D02F373061D7AC22B0E6ADE8CC7C445AAAF0F" : "Swift2-arithmetic_example\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FindDogAge",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FindDogAge.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seunghee2\/Swift2-arithmetic_example",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D4D02F373061D7AC22B0E6ADE8CC7C445AAAF0F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/seunghee2\/Swift2-Basic-with-iOS9-and-Xcode7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C41CBD3294C9C42733E601792A77823B4DF0D645"
+    }
+  ]
+}
